@@ -25,7 +25,7 @@ export default class GustavoPereira extends human {
   nationality: string;
   constructor(repository) {
     this.name = "Gustavo Da Silva Pereira";
-    this.nationality = "Braziliam";
+    this.nationality = "Brazilian";
   }
 
   /**
