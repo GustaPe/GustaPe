@@ -32,24 +32,24 @@ export default class GustavoPereira extends human {
    *
    * @param res
    * @returns
-   */
- getLanguages = async (res): Promise<any> => {
+ */
+  getLanguages = async (res): Promise<any> => {
     MyLanguages = [
-       "Portuguese",
-       "English",
+      "Portuguese",
+      "English",
     ];
     return res.status(200).json(MyLanguages);
   };
   
-   /**
+  /**
    *
    * @param res
    * @returns
-   */
-   getTechnologies = async (res): Promise<any> => {
+ */
+  getTechnologies = async (res): Promise<any> => {
     MyTechnologies = {
-       "JavaScript": ["Node.js"];
-       "DataBase": ["MySQL"]
+      "JavaScript": ["Node.js"];
+      "DataBase": ["MySQL"]
     };
     return res.status(200).json(MyTechnologies);
   };
