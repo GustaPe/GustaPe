@@ -14,7 +14,7 @@
 
 </p>
 
-## Node.js Developer @ A&M Solutions
+## Back-End Developer
 
 <h3 style="display:flex;justify-content: center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png" width="21" height="21"/> A little more about me: </h3>
 
